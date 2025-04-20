@@ -1,8 +1,10 @@
 # Carpeta de datos
-data/
+data/*
+!data/.gitkeep
 
 # Notebooks temporales
 .ipynb_checkpoints/
+*.ipynb
 
 # Power BI
 *.pbix
@@ -14,3 +16,7 @@ Thumbs.db
 # Archivos grandes
 *.zip
 *.csv
+
+# Excluir explícitamente estos archivos
+!README.md
+!Primer_entregable.md
