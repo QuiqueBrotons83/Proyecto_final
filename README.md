@@ -47,7 +47,7 @@ Proyecto_final/
 
 ## 📄 Primer Entregable
 
-📌 **Archivo:** `primer_entregable.md`  
+📌 **Archivo:** `Primer_entregable.md`  
 📝 Contiene la definición del caso de negocio, objetivos, herramientas y datos.
 
 ---
