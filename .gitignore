@@ -1,0 +1,16 @@
+# Carpeta de datos
+data/
+
+# Notebooks temporales
+.ipynb_checkpoints/
+
+# Power BI
+*.pbix
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos grandes
+*.zip
+*.csv
