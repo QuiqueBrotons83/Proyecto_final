@@ -40,6 +40,9 @@ Proyecto_final/
 ├── docs/                   # Entregables y presentación final
 │
 ├── primer_entregable_proyecto_amazon.md    # Definición del caso de negocio
+│__ segundo_entregable_proyecto_amazon.md   # Análisis de datos y limpieza
+│__ tercer_entregable_proyecto_amazon.md    # Análisis exploratorio de datos (EDA)
+│__ cuarto_entregable_proyecto_amazon.md    # Presentación final
 └── README.md               # Este archivo
 ```
 
