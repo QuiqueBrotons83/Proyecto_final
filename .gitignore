@@ -3,8 +3,7 @@ data/*
 !data/.gitkeep
 
 # Notebooks temporales
-.ipynb_checkpoints/
-*.ipynb
+
 
 # Power BI
 *.pbix
