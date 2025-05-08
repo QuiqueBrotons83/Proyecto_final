@@ -1,6 +1,7 @@
 # Carpeta de datos
 data/*
 !data/.gitkeep
+.gitkeep
 
 # Notebooks temporales
 
