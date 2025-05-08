@@ -11,11 +11,10 @@ data/*
 # Archivos del sistema
 .DS_Store
 Thumbs.db
-
+__pycache__/
 # Archivos grandes
 *.zip
 *.csv
 
 # Excluir explícitamente estos archivos
 !README.md
-!Primer_entregable.md
