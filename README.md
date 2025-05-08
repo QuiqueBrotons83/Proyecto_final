@@ -46,13 +46,5 @@ Proyecto_final/
 └── README.md               # Este archivo
 ```
 
----
-
-## 📄 Primer Entregable
-
-📌 **Archivo:** `Primer_entregable.md`  
-📝 Contiene la definición del caso de negocio, objetivos, herramientas y datos.
-
----
 
 > Proyecto desarrollado por Quique Brotons — 2024/2025
