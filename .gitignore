@@ -1,14 +1,10 @@
 # Carpeta de datos
-data/*
-!data/.gitkeep
-.gitkeep
-__pycache__
+
 
 # Notebooks temporales
 
 
 # Power BI
-*.pbix
 
 # Archivos del sistema
 .DS_Store
