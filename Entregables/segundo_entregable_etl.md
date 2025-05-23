@@ -11,9 +11,9 @@ El proceso ETL (Extract, Transform, Load) desarrollado en este proyecto incluye:
 - El archivo `.zip` se descomprimió y se combinaron múltiples archivos CSV en un único DataFrame.
 
 ### 🔹 Transformación:
-- Se eliminaron columnas irrelevantes como `Unnamed: 0`, `image`, `link`.
 - Se transformaron columnas de texto numérico (`actual_price`, `discount_price`, `no_of_ratings`) a tipos numéricos válidos.
 - Se imputaron valores nulos en `ratings` (usando la mediana por categoría) y `discount_price` (rellenando con el valor de `actual_price` si no existía).
+- Normalización de los las columnas 'actual_price' y 'discount_price. 
 - Se creó la columna `discount_percent` para representar el porcentaje de descuento aplicado a cada producto.
 - Se eliminaron filas con valores nulos críticos (`ratings`, `actual_price`) y se generó un nuevo DataFrame limpio (`df_eda`).
 
